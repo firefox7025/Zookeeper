@@ -1,6 +1,6 @@
 FROM ubuntu:trusty
 
-MAINTAINER recursiverighthook
+MAINTAINER recursiverighthook alexandermontgomery95@gmail.com
 
 RUN apt-get update; apt-get install -y unzip openjdk-7-jre-headless wget supervisor
 
